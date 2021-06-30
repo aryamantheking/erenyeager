@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://cf.geekdo-images.com/g-fYqNBmmY2HKybi2iucBw__original/img/Wn1kCD0XOePeX7JYpu8C_TK-qOc=/0x0/filters:format(jpeg)/pic599164.jpg');
+    background-size: cover;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+#output {
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+span {
+    font-size: 18px;
+    color: white;
+}
+
